@@ -68,6 +68,7 @@ I joined the serv table with person on ssn, followed by own on plane registratio
 
 ---Query-17--
 I displayed the planes owned by people who have never undergone maintenance by day shift employees,I joined plane type with own on plane registration number followed by person on ssn followed by serv on plane registration number followed by emp on ssn and where shift was morning those planes were displayed
+
 ![17](https://user-images.githubusercontent.com/112579606/228449802-4913b6c4-70dc-43df-a289-34b257fb8911.png)
 
 ---Query-19--
